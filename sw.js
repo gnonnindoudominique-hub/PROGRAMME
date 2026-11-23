@@ -1,4 +1,4 @@
-const CACHE_NAME = "culte-jesoudegbe-v5";
+const CACHE_NAME = "culte-jesoudegbe-v21";
 const APP_SHELL = [
   "./",
   "./index.html",
